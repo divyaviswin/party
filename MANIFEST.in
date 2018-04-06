@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include partyplanner *.css
+recursive-include partyplanner *.csv
+recursive-include partyplanner *.html
+recursive-include partyplanner *.ico
+recursive-include partyplanner *.js
+recursive-include partyplanner *.json
+recursive-include partyplanner *.md
+recursive-include partyplanner *.png
+recursive-include partyplanner *.py
+recursive-include partyplanner *.svg
+recursive-include partyplanner *.txt
+recursive-exclude partyplanner *.pyc
