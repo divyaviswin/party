@@ -1,0 +1,7 @@
+## Partyplanner
+
+partyplanner
+
+#### License
+
+MIT
